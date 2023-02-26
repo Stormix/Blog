@@ -21,6 +21,7 @@
     "@strapi/strapi": "4.6.2",
     "better-sqlite3": "8.0.1",
     "lodash": "^4.17.21",
+    "lodash.set": "^4.3.2",
     "pg": "^8.9.0",
     "strapi-blurhash": "^1.0.2",
     "strapi-plugin-sitemap": "^2.0.9"
